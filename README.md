@@ -23,7 +23,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to recordmyroute@gmail.com. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -62,7 +62,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-04-02
+This privacy policy is effective as of 2025-04-03
 
 **Your Consent**
 
@@ -72,5 +72,4 @@ By using the Application, you are consenting to the processing of your informati
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at recordmyroute@gmail.com.
 
-* * *
 
